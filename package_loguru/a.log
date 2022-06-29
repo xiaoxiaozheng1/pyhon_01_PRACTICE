@@ -1,0 +1,21 @@
+2022-06-28 17:41:09.802 | DEBUG    | __main__:<module>:12 - 这是一条debug日志
+2022-06-28 17:41:09.803 | INFO     | __main__:<module>:13 - 这是一条info日志
+2022-06-28 17:41:09.804 | WARNING  | __main__:<module>:14 - 这是一条warning日志
+2022-06-28 17:41:09.804 | SUCCESS  | __main__:<module>:15 - 这是一条success日志
+2022-06-28 17:41:09.805 | ERROR    | __main__:<module>:16 - 这是一条error日志
+2022-06-28T17:45:15.065333+0800  |  DEBUG  | loguru_practice  |  这是一条debug日志
+2022-06-28T17:45:15.066334+0800  |  INFO  | loguru_practice  |  这是一条info日志
+2022-06-28T17:45:15.066334+0800  |  WARNING  | loguru_practice  |  这是一条warning日志
+2022-06-28T17:45:15.067348+0800  |  SUCCESS  | loguru_practice  |  这是一条success日志
+2022-06-28T17:45:15.067348+0800  |  ERROR  | loguru_practice  |  这是一条error日志
+2022-06-28 at 17:50:44  |  DEBUG  | loguru_practice  |  这是一条debug日志
+2022-06-28 at 17:50:44  |  INFO  | loguru_practice  |  这是一条info日志
+2022-06-28 at 17:50:44  |  WARNING  | loguru_practice  |  这是一条warning日志
+2022-06-28 at 17:50:44  |  SUCCESS  | loguru_practice  |  这是一条success日志
+2022-06-28 at 17:50:44  |  ERROR  | loguru_practice  |  这是一条error日志
+2022-06-28  17:54:46  |  DEBUG  | loguru_practice  |  这是一条debug日志
+2022-06-28  17:54:46  |  INFO  | loguru_practice  |  这是一条info日志
+2022-06-28  17:54:46  |  WARNING  | loguru_practice  |  这是一条warning日志
+2022-06-28  17:54:46  |  SUCCESS  | loguru_practice  |  这是一条success日志
+2022-06-28  17:54:46  |  ERROR  | loguru_practice  |  这是一条error日志
+2022-06-28  17:54:46  |  INFO  | loguru_practice  |  我的名字叫小争，今天星期2
